@@ -48,4 +48,4 @@ elif step_one_input == "No":
 
 # Footer
 st.markdown("---")
-st.markdown("Created by [Your Name] | For support, contact the Automation Team.")
+st.markdown("Created by [The Automation Development Team] | For support, contact the Automation Team.")
